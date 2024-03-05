@@ -1,0 +1,166 @@
+#fondo
+{
+    margin: 20px;
+    width: 1300px;
+    height: 800px;
+    background-color:#EFA1E3 ;
+}
+#cara
+{
+    width: 400px;
+    height: 400px;
+    background-color: lightsalmon;
+    border-radius: 200px;
+    position: relative;
+    top: 200px;
+    left: 400px;
+}
+#sombrero1
+{
+    width: 450px;
+    height: 60px;
+    border-style: dashed;
+    background-color:blue;
+    position: relative;
+    bottom: 180px;
+    left: 380px;
+    border-radius: 20px;
+}
+#sombrero2
+{
+    width: 300px;
+    height: 124px;
+    background-color:blue;
+    position: relative;
+    bottom: 370px;
+    left: 450px;
+    border-radius: 20px;
+    border-style: dashed;
+}
+#boca
+{
+    width: 230px;
+    height: 111px;
+    background-color: white;
+    border-radius: 100px;
+    position: relative;
+    top: 260px;
+    left: 80px;
+
+}
+#nariz
+{
+    width: 70px;
+    height: 70px;
+    background-color: red;
+    border-radius: 50px;
+    position: relative;
+    top: 95px;
+    left: 165px;
+}
+#ojo1
+{
+    width: 60px;
+    height: 85px;
+    background-color: white;
+    border-radius: 500px;
+    position: relative;
+    bottom: 50px;
+    left: 110px;
+ 
+}
+#ojo2
+{
+    width: 60px;
+    height: 85px;
+    background-color: white;
+    border-radius: 500px;
+    position: relative;
+    bottom: 134px;
+    left: 230px;
+}
+#p1
+{
+    width: 30px;
+    height: 50px;
+    background-color: black;
+    border-radius: 50px;
+    position: relative;
+    top: 25px;
+    left: 15px;
+
+}
+#p2
+{
+    width: 30px;
+    height: 50px;
+    background-color: black;
+    border-radius: 50px;
+    position: relative;
+    top: 25px;
+    left: 13px;
+
+
+}
+#boca2
+{
+    width: 180px;
+    height: 60px;
+    background-color: red;
+    border-radius: 100px;
+    position: relative;
+    top: 20px;
+    left: 22px;
+}
+#boca3
+{
+    width: 100px;
+    height: 15px;
+    background-color: black;
+    border-radius: 200px;
+    position: relative;
+    top: 20px;
+    left: 40px;
+
+}
+#cab1
+{
+    width: 90px;
+    height: 90px;
+    background-color: chocolate;
+    border-radius: 300px;
+    position: absolute;
+    top: 270px;
+    left: 790px;
+
+}
+#cab2
+{
+    width: 110px;
+    height: 110px;
+    background-color: chocolate;
+    border-radius: 300px;
+    position: absolute;
+    top: 60px;
+    left: 15px;
+}
+#cab3
+{
+    width: 90px;
+    height: 90px;
+    background-color: chocolate;
+    border-radius: 300px;
+    position: absolute;
+    top: 270px;
+    left: 380px;
+}
+#cab4
+{
+    width: 110px;
+    height: 110px;
+    background-color: chocolate;
+    border-radius: 300px;
+    position: absolute;
+    top: 60px;
+    right: 25px;
+}
